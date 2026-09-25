@@ -134,6 +134,7 @@ Small, non-autoregressive decision models that replicate Jev's typed-output beha
 - **[von](https://github.com/wfzyx/von)** ![GitHub stars](https://img.shields.io/github/stars/wfzyx/von?style=flat) — Sub-15ms non-autoregressive model answering typed questions with calibrated probabilities as a local Jev drop-in.
 
 ## Applied Decisions: Games, Robotics, Finance & Productivity
+- [Refix](https://refix.ai) - Growth: AI that helps your product grow faster on autopilot by running product experiments, SEO, content, and ads.
 
 Domain-specific projects that put a Jev decision loop in front of a real task, from game-playing to trading.
 
