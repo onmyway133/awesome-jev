@@ -132,6 +132,7 @@ Small, non-autoregressive decision models that replicate Jev's typed-output beha
 - **[openJev-verdict-2.0](https://github.com/Heman10x-NGU/openJev-verdict-2.0)** ![GitHub stars](https://img.shields.io/github/stars/Heman10x-NGU/openJev-verdict-2.0?style=flat) — Calibrated 151M non-autoregressive decision engine reporting higher benchmark accuracy than Jev and Laya on typed-decision tasks.
 - **[simple-jev](https://github.com/featherless-ai/simple-jev)** ![GitHub stars](https://img.shields.io/github/stars/featherless-ai/simple-jev?style=flat) — Adapter that turns any open LLM endpoint into a Jev-compatible classification service without training a separate head.
 - **[von](https://github.com/wfzyx/von)** ![GitHub stars](https://img.shields.io/github/stars/wfzyx/von?style=flat) — Sub-15ms non-autoregressive model answering typed questions with calibrated probabilities as a local Jev drop-in.
+- **[WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep)** ![GitHub stars](https://img.shields.io/github/stars/SamratDuttaOfficial/WaterSheep?style=flat) — Open-weight decision model answering choice, score, yes/no and multi-label questions with a probability for every option, served behind a Jev-compatible `/v1/systemone` API or run in the browser through ONNX.
 
 ## Applied Decisions: Games, Robotics, Finance & Productivity
 
